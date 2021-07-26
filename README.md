@@ -3,7 +3,10 @@
 This Organization consists of invited-only contributors and developers.
 This Repo explains basic info and rules regarding the organization.
 
-*Organization Owner: Founder*
+
+**General:**
+* This organization is mostly made for Fadeaway, a horion fork meant for bypassing server anti-cheats. The official website is https://www.fadeaway.xyz.
+* The organization owner is Founder (aka Little Kow/FadedKow)
 
 **Public Repos:**
 * Anything inside public repos are allowed to be distributed, but not sold.
@@ -13,3 +16,7 @@ This Repo explains basic info and rules regarding the organization.
 * Anything inside the private repos should and will NOT be shown/released to the public.
 * Anything inside these repos will not be leaked or sold anywhere.
 * Anyone caught will be immidietely removed and banned from the organization and discord servers.
+
+**Current Members (In The Organization:**
+* Founder
+* Rxversed
