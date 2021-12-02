@@ -6,7 +6,7 @@ This Repo explains basic info and rules regarding the organization.
 
 **General:**
 * This organization is mostly made for Fadeaway, a horion fork meant for bypassing server anti-cheats, though it will also have some extra things like FadedTool (A DID/MCID Spoofer). The official website is https://www.fadeaway.xyz.
-* The organization owner is Founder#8300
+* The owners of the organization are Founder and eKowz.
 
 **Public Repos:**
 * Anything inside public repos are allowed to be distributed, but not sold.
